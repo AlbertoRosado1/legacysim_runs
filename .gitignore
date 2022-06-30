@@ -6,11 +6,13 @@ slurm-*
 *.pyc*
 
 # ignore following files
-DA02/my_others_concat
-DA02/adematti_dens
-DA02/adematti_dens_concat
-DA02/adematti_others
-DA02/adematti_others_concat
-DA02/my_others
-DA02/my_dens
-DA02/my_dens_concat
+./DA02/slurm-60520713.out
+./DA02/my_others_concat
+./DA02/my_dens_concat
+./DA02/adematti_dens
+./DA02/adematti_others_concat
+./DA02/adematti_others
+./DA02/my_others
+./DA02/adematti_dens_concat
+./DA02/slurm-60475700.out
+./DA02/my_dens
