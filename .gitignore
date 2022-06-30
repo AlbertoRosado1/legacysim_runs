@@ -6,6 +6,7 @@ slurm-*
 *.pyc*
 
 # ignore following files
+# use find ./* -size +100M | cat >> .gitignore to find files that are larger than 100mb
 ./DA02/slurm-60520713.out
 ./DA02/my_others_concat
 ./DA02/my_dens_concat
